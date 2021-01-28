@@ -38,5 +38,6 @@ It lists all the processes
 
 `sudo kill <PID of the process>`
 
+### Reference for paho-mqtt-client:
 
-Reference to python package used: https://pypi.org/project/paho-mqtt/#simple
+Documentation for python package used: https://pypi.org/project/paho-mqtt/#simple
